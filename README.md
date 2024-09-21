@@ -4,7 +4,7 @@ This is a Hello World printing program written to be simple and easily understoo
 
 The goal is to display the text "Hello World" to the console without overcomplication, or excess code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/XrcOkZAI3B4)
 
 # Development Environment
 
